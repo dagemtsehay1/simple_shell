@@ -47,3 +47,11 @@
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
 ```
+
+## Authors
+
+  - [Dagem Tsehay](https://github.com/dagemtsehay1)
+  - [Biruk Mulugeta](https://github.com/birukm61)
+
+## License
+  > This project is licensed under the MIT [License](https://github.com/dagemtsehay1/simple_shell/blob/main/LICENSE)
