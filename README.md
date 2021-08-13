@@ -38,3 +38,8 @@
 > ``` wait3 (man 2 wait3)```
 > ``` wait4 (man 2 wait4)```
 > ``` write (man 2 write)```
+
+
+## Compilation
+
+`gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
