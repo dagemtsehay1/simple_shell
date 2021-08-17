@@ -1,7 +1,7 @@
 /*
  * File: helpers_2.c
- * Auth: Alex Yu
- *       Brennan D Baraban
+ * Auth: Biruk Muluget
+ *       Dagem Tsehay
  */
 
 #include "shell.h"
