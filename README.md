@@ -1,6 +1,6 @@
-###  Team Project
+###  Team Project : 0x16. C - Simple Shell
 ![Github All Contributors](https://img.shields.io/badge/all%20contributors-2-brightgreen)
-# Alx Project 0x16. C - Simple Shell
+# Alx-Shell 💻  
 <blockquote>
   A simple UNIX command interpreter written as part of the low-level programming and algorithm track at Alx - Software Engineering Program .
   </blockquote>
