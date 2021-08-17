@@ -1,9 +1,12 @@
 ###  Team Project : 0x16. C - Simple Shell
 ![Github All Contributors](https://img.shields.io/badge/all%20contributors-2-brightgreen)
 # Alx-Shell 💻  
-<blockquote>
-  A simple UNIX command interpreter written as part of the low-level programming and algorithm track at Alx - Software Engineering Program .
-  </blockquote>
+
+ > A simple UNIX command interpreter written as part of the low-level programming and algorithm track at Alx - Software Engineering Program .
+
+## Description 
+
+> Alx-Shell is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.
   
 ## List of allowed functions and system calls
 >
@@ -81,7 +84,7 @@ $
 
 ```
 
-## Authors
+## Authors ✒️
 
   - [Dagem Tsehay](https://github.com/dagemtsehay1)
   - [Biruk Mulugeta](https://github.com/birukm61)
